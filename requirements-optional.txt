@@ -1,0 +1,2 @@
+# Optional local semantic embeddings and BGE reranking. Model files download on first run.
+sentence-transformers>=3.4,<6

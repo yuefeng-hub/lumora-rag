@@ -1,0 +1,29 @@
+# 环境变量与密钥（务必不要提交）
+.env
+.env.local
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 前端依赖与构建产物
+node_modules/
+dist/
+
+# 运行时数据与产物
+data/
+outputs/
+work/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log

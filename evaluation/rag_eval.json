@@ -1,0 +1,5 @@
+[
+  {"question":"员工病假应该联系谁？","expected":"直属主管","collection":"all"},
+  {"question":"如何申请费用报销？","expected":"报销","collection":"all"},
+  {"question":"公司的信息安全要求是什么？","expected":"安全","collection":"all"}
+]
